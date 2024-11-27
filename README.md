@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lazarus Mwangi
-- 👀 I’m interested in web(Node JS) and Android flutter
-- 🌱 I’m currently learning more about flutter
+- 👀 I’m a full stack developer Node JS, Laravel, Django
 - 💞️ I’m looking to collaborate on Node JS projects
 - 📫 email. swanlaz64@gmail.com
 
